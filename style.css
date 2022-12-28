@@ -54,9 +54,9 @@
     .foto {
         width: 181.86px;
     }
+
     .photo {
-        width: 232px;
-        height: 203px;
+        display: none;
     }
 
     h1 {
@@ -91,13 +91,18 @@
     }
 
     .bottom {
-        display: block;
+        display: flex;
 
     }
 
     .foto {
         width: 146.32px;
     }
+
+    .photo {
+        display: none;
+    }
+
     h1 {
         width: 170.08px;
     }
